@@ -1,0 +1,17 @@
+/**
+ * https://github.com/software-mansion/react-native-svg/blob/main/USAGE.md
+ * You can use SvgXml with babel-plugin-inline-import, but with transforms done at run-time
+ */
+// ===>
+// {
+//   "presets": ["module:metro-react-native-babel-preset"],
+//   "plugins": [
+//     [
+//       "babel-plugin-inline-import",
+//       {
+//         "extensions": [".svg"]
+//       }
+//     ]
+//   ]
+// }
+// <===
