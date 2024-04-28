@@ -1,5 +1,5 @@
 import axios from 'axios';
-import {BASE_URL, TIMEOUT} from './index.constant';
+import {BASE_URL, TIMEOUT} from './index.constants';
 import {
   reponseInterceptorFulfilled,
   reponseInterceptorReject,
